@@ -1,15 +1,5 @@
 <p align="center">
-    <h1>Andika Pratama<h1>
-</p>
-
-
-
-<br/>
-
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
+  <h1>Andika Pratama<h1>
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=77F71D&width=435&lines=Junior+Web+Developer;Experienced+2+Years%2B%2B;Always+New+Things" alt="Typing SVG" /></a>
 
